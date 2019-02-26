@@ -11,7 +11,7 @@ An extensive Objective C SDK for the Instagram API.
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Shyam Bhat' => 'shyambhat@me.com' }
-  s.source           = { :git => 'https://github.com/shyambhat/InstagramKit.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/nmnikitsin/InstagramKit.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '9.0'
